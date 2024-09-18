@@ -1,6 +1,6 @@
 👋 Hi, I’m Axel Larsson
 
-I’m a dedicated software developer passionate about crafting elegant and scalable solutions. With expertise in Python, JavaScript, C++, and C#, I specialize in creating impactful applications that solve real-world problems.
+I’m a dedicated software developer passionate about crafting elegant and scalable solutions. With expertise in Python, JavaScript, Java, C++, and C, I specialize in creating impactful applications that solve real-world problems.
 
 🚀 Currently Exploring:
 
