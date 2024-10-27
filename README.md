@@ -1,3 +1,23 @@
+/*Svenska*/
+
+👋 Hej, jag heter Axel Larsson
+
+Jag är en engagerad mjukvaruutvecklare med passion för att skapa eleganta och skalbara lösningar. Med expertis inom Python, JavaScript, Java, C++ och C, specialiserar jag mig på att utveckla effektiva applikationer som löser verkliga problem.
+
+🚀 För närvarande utforskar jag:
+
+Avancerade maskininlärningstekniker
+Molninfrastruktur med AWS
+🌟 Öppen för samarbete: Jag ser fram emot att arbeta med innovativa projekt och bidra till open-source-initiativ som driver tekniken framåt. Om du arbetar med något spännande, låt oss gärna prata!
+
+📫 Så når du mig: Skicka ett mejl till mig på [axel.larsson02@gmail.com] eller anslut med mig på LinkedIn [www.linkedin.com/in/axel-larsson-51ab69231]
+
+😄 Pronomen: Han/Honom
+
+⚡ Rolig fakta: Jag byggde en gång en robot från grunden – bara för skojs skull!
+
+/*English*/
+
 👋 Hi, I’m Axel Larsson
 
 I’m a dedicated software developer passionate about crafting elegant and scalable solutions. With expertise in Python, JavaScript, Java, C++, and C, I specialize in creating impactful applications that solve real-world problems.
