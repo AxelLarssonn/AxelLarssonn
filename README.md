@@ -12,10 +12,6 @@ Molninfrastruktur med AWS
 
 📫 Så når du mig: Skicka ett mejl till mig på [axel.larsson02@gmail.com] eller anslut med mig på LinkedIn [www.linkedin.com/in/axel-larsson-51ab69231]
 
-😄 Pronomen: Han/Honom
-
-⚡ Rolig fakta: Jag byggde en gång en robot från grunden – bara för skojs skull!
-
 /*English*/
 
 👋 Hi, I’m Axel Larsson
@@ -31,10 +27,4 @@ I’m eager to work on innovative projects and contribute to open-source initiat
 
 📫 How to Reach Me:
 Feel free to email me at [axel.larsson02@gmail.com] or connect with me on LinkedIn [www.linkedin.com/in/axel-larsson-51ab69231]
-
-😄 Pronouns:
-He/Him
-
-⚡ Fun Fact:
-I once built a robot from scratch just for fun!
 
